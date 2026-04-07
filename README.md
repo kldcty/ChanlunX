@@ -64,6 +64,8 @@ NOTEXT_DDUANSE1:STICKLINE(DUANSE1,DUANZD1,DUANZG1,0,0),COLORFF8000;{画段中枢
 
 - [番茄缠论插件 FqChan04 TDX 安装指南 20260405 更新](https://mp.weixin.qq.com/s/v3uchXfQLACdeEoV6CN65Q)
 
+并且我也有全能的量化版本开发计划，可以一起研究冲浪。
+
 ### 更多
 
 - 支持作者：https://mp.weixin.qq.com/s/xKBIlmBp9iyYg7wpLc5bPw
