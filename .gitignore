@@ -9,3 +9,4 @@ cmake-build-debug/
 .claude/
 build32/
 build64/
+*.zip
